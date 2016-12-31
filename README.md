@@ -5,7 +5,9 @@ Some Bionicle fonts.
 
 To download all the fonts, visit [the latest release](https://github.com/MtMNC/Bionicle-Fonts/releases/latest) and choose your preferred download link. To pick and choose fonts, browse through the directories above, click the font file you want to download, then click "View Raw."
 
-__Latest version: v2.2__
+__Latest version: v2.2.2__
+
+In v2.2:
  * Okoto2016
   * Redrew all symbols
   * Fixed D, I, J, Q, and X glyphs
@@ -20,7 +22,7 @@ Current fonts
 
 * __voyamatoran [(preview)](voyamatoran/voyamatoranpreview.png)__ - The Matoran language writing system used on Voya Nui and Mahri Nui (symbols within hexagons). Based on images from [BIONICLEsector01](http://biosector01.com/). Contains glyphs for a-z, A-Z, 0-9, [space] and -.
 
-* __okoto2016 [(preview)](okoto2016/okoto2016preview.png)__ - The writing system used on Okoto as of 2016. Based on the [Complete Okoto Alphabet + Okotan Symbols](https://i.imgur.com/dEW4acD.png) created by [jed1ndy from BZPower](http://www.bzpower.com/board/user/112053-jed1ndy/) and the [Umarak symbol](http://biosector01.com/wiki/images/4/43/Umarak_Symbol.PNG) uploaded to BS01 by [Surel-nuva](http://biosector01.com/wiki/index.php/User:Surel-nuva). (The symbols have been edited further for use in the font.) [This image](https://web.archive.org/web/20161231052905/http://orig12.deviantart.net/d686/f/2016/009/a/8/okoto_language_by_toaherostudio-d9nan32.jpg) by [ToaHeroStudio on Deviantart](http://toaherostudio.deviantart.com/) also proved useful (it seems to be from the first G2 graphic novel, _LEGO Bionicle: Gathering of the Toa_). Contains glyphs for a-z, A-Z, 1-9, and [space]. Numbers correspond to the following symbols:
+* __okoto2016 [(preview)](okoto2016/okoto2016preview.png)__ - The writing system used on Okoto as of 2016. Based on the [Complete Okoto Alphabet + Okotan Symbols](https://i.imgur.com/dEW4acD.png) created by [jed1ndy from BZPower](http://www.bzpower.com/board/user/112053-jed1ndy/) and the [Umarak](http://biosector01.com/wiki/images/4/43/Umarak_Symbol.PNG) and [Elemental Creature](http://biosector01.com/wiki/images/9/90/Creatures_Symbol.png) symbols uploaded to BS01 by [Surel-nuva](http://biosector01.com/wiki/index.php/User:Surel-nuva). (The symbols have been edited further for use in the font.) [This image](https://web.archive.org/web/20161231052905/http://orig12.deviantart.net/d686/f/2016/009/a/8/okoto_language_by_toaherostudio-d9nan32.jpg) by [ToaHeroStudio on Deviantart](http://toaherostudio.deviantart.com/) also proved useful (it seems to be from the first G2 graphic novel, _LEGO Bionicle: Gathering of the Toa_). Contains glyphs for a-z, A-Z, 1-9, and [space]. Numbers correspond to the following symbols:
   * 1: Lewa
   * 2: Pohatu
   * 3: Gali
