@@ -5,13 +5,10 @@ Some Bionicle fonts.
 
 To download all the fonts, visit [the latest release](https://github.com/MtMNC/Bionicle-Fonts/releases/latest) and choose your preferred download link. To pick and choose fonts, browse through the directories above, click the font file you want to download, then click "View Raw."
 
-__Latest version: v2.2.*__
+__Latest version: v2.3.*__
  * Okoto2016
-  * Redrew all symbols
-  * Fixed D, I, J, Q, and X glyphs
-  * Added Ekimu symbol as 9
-  * Switched around Umarak and Elemental Creatures symbols (now Elemental Creatures is 7 and Umarak is 8)
-  * Added credits to font file (in theory)
+  * Fix 8 glyph (Umarak symbol)
+  * Update font file credits
 
 Current fonts
 ---------

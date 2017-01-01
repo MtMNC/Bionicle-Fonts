@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg">
-<metadata>Symbol designs by The LEGO Group. Symbols transcribed by jed1ndy and turned into a font by Morris the Mata Nui Cow using Fontello.</metadata>
+<metadata>Symbol designs by The LEGO Group. Alphabet, Toa, and Ekimu symbols transcribed by jed1ndy. Umarak and Creature symbols based on those by Surel-nuva (which themselves were based on those by Swert and Dorek). Turned into a font by Morris the Mata Nui Cow using Fontello.</metadata>
 <defs>
 <font id="okoto2016" horiz-adv-x="1000" >
 <font-face font-family="okoto2016" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
@@ -22,7 +22,7 @@
 
 <glyph glyph-name="7creatures" unicode="&#x37;" d="M727-70l223 223v-53-100-100h-100-100-23v30z m-677 170v-100-100h100 100 23v30l-223 223v-53z m900 587v-87-100-100-86l-337-337 0 0h0v-77h-63-100-63v77h0l0 0-337 337v86 100 100 87l113 113h87 27v-450h110v225h113 113v-225h110v450h27 87l113-113z m-337-394h-113-113v-151l113-113 113 113v151z" horiz-adv-x="1000" />
 
-<glyph glyph-name="8umarak" unicode="&#x38;" d="M950 350v-50-100-100-100-100h-100-12v168h-113v-168h-75-100-100-100-75v168h-112v-168h-13-100v100 100 100 100 50h168v-112h114v112 113h-282v37 100 100 100h100 68v-112h114v112h18 100 100 100 18v-112h114v112h68 100v-100-100-100-37h-282v-113-112h114v112h168z" horiz-adv-x="1000" />
+<glyph glyph-name="8umarak" unicode="&#x38;" d="M850 800h-68v-112h-114v112h-18-100-100-100-18v-112h-114v112h-68-100v-100-100-100-37h282v-113-112h-114v112h-168v-50-100-100-100-100h100 13v168h112v-168h75 93v225h57 57v-225h93 75v168h113v-168h12 100v100 100 100 100 50h-168v-112h-114v112 113h282v37 100 100 100h-100z" horiz-adv-x="1000" />
 
 <glyph glyph-name="9ekimu" unicode="&#x39;" d="M850 800h-100-100-100v-100h100v-100-50h-150-150v50 100h100v100h-100-100-100-100v-100-100-100-100-100-100-100-100-100h100 100 100 100 100 100 100 100 100v100 100 100 100 100 100 100 100 100h-100z m0-800h-100-50-50-100-50-50-100-50-50-100v100h0l150 100v0h50 100 50 50 100 50v0l150-100h0v-100z m0 400l-150-100h-50-100-50-50-100-50l-150 100v100h100 50 50 100 50 50 100 50 50 100v-100z" horiz-adv-x="1000" />
 
