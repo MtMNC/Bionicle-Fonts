@@ -1,7 +1,9 @@
 Bionicle Fonts
 =========
 
-Some Bionicle fonts.
+<p align="left">Some Bionicle fonts.
+ 
+ <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.eu.png" width="152"/></p>
 
 To download all the fonts, visit [the latest release](https://github.com/MtMNC/Bionicle-Fonts/releases/latest) and choose your preferred download link. To pick and choose fonts, browse through the directories above, click the font file you want to download, then click "View Raw."
 
